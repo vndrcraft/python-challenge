@@ -1,6 +1,8 @@
 # python-challenge
-Challenge 3 for Data Analytics bootcamp
-This purpose of this challenge was to analyze bank data to evaluate profit and losses. The scripts attached take the foloowing actions:
+Challenge 3 for Rice Data Analytics bootcamp.
+
+This purpose of this challenge was to analyze bank data to evaluate profit and losses. 
+The scripts attached take the following actions:
 - sum profit and losses to determine bank profits.
 - Determine maximum profit and the month where it occurred.
 - Determine higheest loss and the month it occurred.
